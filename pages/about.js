@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-import loading from "./loading";
+import loading from "./functionLoading/loading";
 
 function about() {
   return (
